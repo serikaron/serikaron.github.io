@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>vDemo.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>99BBAD90E0C1740163A3CA437F679BEA8579ADF1</string>
+				<key>dateExpires</key>
+				<string>2023/5/21</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>99BBAD90E0C1740163A3CA437F679BEA8579ADF1</string>
+						<key>dateExpires</key>
+						<string>2023/5/21</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>entitlements</key>
+					<dict>
+						<key>application-identifier</key>
+						<string>Y2B9M6372K.test.v2ray.demo.vDemo-tunnel</string>
+						<key>com.apple.developer.networking.networkextension</key>
+						<array>
+							<string>packet-tunnel-provider</string>
+						</array>
+						<key>com.apple.developer.team-identifier</key>
+						<string>Y2B9M6372K</string>
+						<key>com.apple.security.application-groups</key>
+						<array>
+							<string>group.test.v2ray.demo</string>
+						</array>
+						<key>get-task-allow</key>
+						<false/>
+					</dict>
+					<key>name</key>
+					<string>vDemo-tunnel.appex</string>
+					<key>profile</key>
+					<dict>
+						<key>UUID</key>
+						<string>94bcff72-41b3-4cd2-ade9-898338c7f55c</string>
+						<key>dateExpires</key>
+						<string>2023/5/21</string>
+						<key>name</key>
+						<string>iOS Team Ad Hoc Provisioning Profile: test.v2ray.demo.vDemo-tunnel</string>
+					</dict>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>Y2B9M6372K</string>
+						<key>name</key>
+						<string>Bw Solutions Technology, Llc</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>Y2B9M6372K.test.v2ray.demo</string>
+				<key>com.apple.developer.networking.networkextension</key>
+				<array>
+					<string>packet-tunnel-provider</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>Y2B9M6372K</string>
+				<key>com.apple.security.application-groups</key>
+				<array>
+					<string>group.test.v2ray.demo</string>
+				</array>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>vDemo.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>1d346b5b-7599-42b8-9f4a-48eda8547c7b</string>
+				<key>dateExpires</key>
+				<string>2023/5/21</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: test.v2ray.demo</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>Y2B9M6372K</string>
+				<key>name</key>
+				<string>Bw Solutions Technology, Llc</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
