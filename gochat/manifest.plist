@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://serikaron.github.io/gochat/image.display.png</string>
+					<string>https://serikaron.github.io/gochat/image.small.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://serikaron.github.io/gochat/image.full.png</string>
+					<string>https://serikaron.github.io/gochat/image.big.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>

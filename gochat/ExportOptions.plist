@@ -11,9 +11,9 @@
 		<key>appURL</key>
 		<string>https://serikaron.github.io/gochat/GoChat.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://serikaron.github.io/gochat/image.display.png</string>
+		<string>https://serikaron.github.io/gochat/image.small.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://serikaron.github.io/gochat/image.full.png</string>
+		<string>https://serikaron.github.io/gochat/image.big.png</string>
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
