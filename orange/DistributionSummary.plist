@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>orange-accelerator.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>517D037E4CEE599F283F23092FF5823FB2AAB2AA</string>
+				<key>dateExpires</key>
+				<string>2024/5/9</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>517D037E4CEE599F283F23092FF5823FB2AAB2AA</string>
+						<key>dateExpires</key>
+						<string>2024/5/9</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>entitlements</key>
+					<dict>
+						<key>application-identifier</key>
+						<string>LF5TPWVU4A.orange.dev.orange-tunnel</string>
+						<key>com.apple.developer.networking.networkextension</key>
+						<array>
+							<string>packet-tunnel-provider</string>
+						</array>
+						<key>com.apple.developer.team-identifier</key>
+						<string>LF5TPWVU4A</string>
+						<key>com.apple.security.application-groups</key>
+						<array>
+							<string>group.orange.dev</string>
+						</array>
+						<key>get-task-allow</key>
+						<false/>
+					</dict>
+					<key>name</key>
+					<string>orange-tunnel.appex</string>
+					<key>profile</key>
+					<dict>
+						<key>UUID</key>
+						<string>ed2bdc83-58ef-4898-8aee-a8a47171b386</string>
+						<key>dateExpires</key>
+						<string>2024/5/9</string>
+						<key>name</key>
+						<string>iOS Team Ad Hoc Provisioning Profile: orange.dev.orange-tunnel</string>
+					</dict>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>LF5TPWVU4A</string>
+						<key>name</key>
+						<string>Thi Nhung Trinh</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>LF5TPWVU4A.orange.dev</string>
+				<key>com.apple.developer.networking.networkextension</key>
+				<array>
+					<string>packet-tunnel-provider</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>LF5TPWVU4A</string>
+				<key>com.apple.security.application-groups</key>
+				<array>
+					<string>group.orange.dev</string>
+				</array>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>orange-accelerator.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>4879f691-769a-4e12-a5e8-6368bcb230f0</string>
+				<key>dateExpires</key>
+				<string>2024/5/9</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: orange.dev</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>LF5TPWVU4A</string>
+				<key>name</key>
+				<string>Thi Nhung Trinh</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
