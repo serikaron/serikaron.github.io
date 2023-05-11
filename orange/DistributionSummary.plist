@@ -10,7 +10,7 @@
 				<string>arm64</string>
 			</array>
 			<key>buildNumber</key>
-			<string>1</string>
+			<string>4</string>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
@@ -28,7 +28,7 @@
 						<string>arm64</string>
 					</array>
 					<key>buildNumber</key>
-					<string>1</string>
+					<string>4</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
@@ -74,7 +74,7 @@
 						<string>Thi Nhung Trinh</string>
 					</dict>
 					<key>versionNumber</key>
-					<string>0.1.1</string>
+					<string>0.1.2</string>
 				</dict>
 			</array>
 			<key>entitlements</key>
@@ -113,7 +113,7 @@
 				<string>Thi Nhung Trinh</string>
 			</dict>
 			<key>versionNumber</key>
-			<string>0.1.1</string>
+			<string>0.1.2</string>
 		</dict>
 	</array>
 </dict>
