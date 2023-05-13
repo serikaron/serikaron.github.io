@@ -9,7 +9,7 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://serikaron.github.io/orange/orange.ipa</string>
+		<string>https://serikaron.github.io/orange/orange-accelerator.ipa</string>
 		<key>displayImageURL</key>
 		<string>https://serikaron.github.io/orange/orange.small.png</string>
 		<key>fullSizeImageURL</key>
