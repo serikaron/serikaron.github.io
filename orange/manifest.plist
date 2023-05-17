@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>orange.dev</string>
 				<key>bundle-version</key>
-				<string>0.1.4</string>
+				<string>0.1.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
