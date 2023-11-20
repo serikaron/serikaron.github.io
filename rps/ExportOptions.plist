@@ -9,7 +9,7 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://serikaron.github.io/rps/rps.ipa</string>
+		<string>https://serikaron.github.io/rps/rps-ios.ipa</string>
 		<key>displayImageURL</key>
 		<string>https://serikaron.github.io/rps/rps.small.png</string>
 		<key>fullSizeImageURL</key>
