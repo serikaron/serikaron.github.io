@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>rps-ios.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>763E26B26A9DEFC72291C2133D15460F23F0A756</string>
+				<key>dateExpires</key>
+				<string>2024/11/19</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>J3V535ZD4K.com.rps.app.ios</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>J3V535ZD4K</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>rps-ios.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>f0948a53-9d3b-49df-ac4a-4b78a681cd3b</string>
+				<key>dateExpires</key>
+				<string>2024/11/19</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.rps.app.ios</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>J3V535ZD4K</string>
+				<key>name</key>
+				<string>Zhejiang Hengji Data Technology Co,. Ltd</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
