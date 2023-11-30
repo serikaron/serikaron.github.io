@@ -10,7 +10,7 @@
 				<string>arm64</string>
 			</array>
 			<key>buildNumber</key>
-			<string>1</string>
+			<string>2</string>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
@@ -48,7 +48,7 @@
 				<string>Zhejiang Hengji Data Technology Co,. Ltd</string>
 			</dict>
 			<key>versionNumber</key>
-			<string>1.0</string>
+			<string>0.0.9</string>
 		</dict>
 	</array>
 </dict>

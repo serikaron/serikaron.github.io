@@ -31,13 +31,13 @@
 				<key>bundle-identifier</key>
 				<string>com.rps.app.ios</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>0.0.9</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>rps-ios</string>
+				<string>rps</string>
 			</dict>
 		</dict>
 	</array>
