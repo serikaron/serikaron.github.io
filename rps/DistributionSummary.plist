@@ -10,7 +10,7 @@
 				<string>arm64</string>
 			</array>
 			<key>buildNumber</key>
-			<string>2</string>
+			<string>1</string>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
@@ -34,7 +34,7 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>ab53aaba-7a22-43b0-893e-727186cd84f0</string>
+				<string>300126d4-d6f3-44d2-8ed3-bcae1eb328ae</string>
 				<key>dateExpires</key>
 				<string>2024/11/19</string>
 				<key>name</key>
@@ -48,7 +48,7 @@
 				<string>Zhejiang Hengji Data Technology Co,. Ltd</string>
 			</dict>
 			<key>versionNumber</key>
-			<string>0.0.9</string>
+			<string>0.0.10</string>
 		</dict>
 	</array>
 </dict>
