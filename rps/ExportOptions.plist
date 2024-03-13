@@ -16,7 +16,7 @@
 		<string>https://serikaron.github.io/rps/rps.big.png</string>
 	</dict>
 	<key>method</key>
-	<string>ad-hoc</string>
+	<string>release-testing</string>
 	<key>signingStyle</key>
 	<string>automatic</string>
 	<key>stripSwiftSymbols</key>
